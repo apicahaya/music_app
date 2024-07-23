@@ -58,6 +58,7 @@
 		D5A738AD2C4E2D9100907BA6 /* music_app */ = {
 			isa = PBXGroup;
 			children = (
+				D5A738B42C4E2D9300907BA6 /* music_app.entitlements */,
 				D5A738CB2C4F548D00907BA6 /* Assets */,
 				D5A738BD2C4E2DF700907BA6 /* Model */,
 				D5A738B52C4E2D9300907BA6 /* Preview Content */,
@@ -70,9 +71,7 @@
 		D5A738B52C4E2D9300907BA6 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				D5A738B42C4E2D9300907BA6 /* music_app.entitlements */,
 				D5A738AE2C4E2D9100907BA6 /* music_appApp.swift */,
-				D5A738B62C4E2D9300907BA6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -106,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				D5A738B22C4E2D9300907BA6 /* Assets.xcassets */,
+				D5A738B62C4E2D9300907BA6 /* Preview Assets.xcassets */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
